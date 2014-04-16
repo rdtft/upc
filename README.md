@@ -62,3 +62,6 @@ Upc.default_options[:pem] = File.read 'generate-keys/1754002.pem'
   ...
   ```
   
+* * *
+
+&copy; 2013 Rybalko Dmitriy
