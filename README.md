@@ -17,7 +17,6 @@ in your `Gemfile`:
 
 ```ruby
 gem 'upc', :github => 'ryuk/upc'
-
 ```
 
 ## HOWTO generate public/private keys
